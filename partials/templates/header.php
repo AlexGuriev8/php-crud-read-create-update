@@ -18,6 +18,7 @@
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav ml-auto">
                     <a class="nav-link active" href="index.php">Stanze</a>
+                    <a class="nav-link active" href="create.php">Inserisci una stanza</a>
                 </div>
             </div>
         </nav>
